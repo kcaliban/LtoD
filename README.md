@@ -1,6 +1,9 @@
 # LtoD Converter
 Converts any L-protein into its mirror-image D-form.
 
+## Dependencies
+* python3
+
 ## Installation
 Simply clone this repository into a directory of your liking
 ```bash
