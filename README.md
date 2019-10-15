@@ -23,3 +23,6 @@ python3 LtoD.py infile outfile
 
 ## Notes
 You can of course also use this tool to convert a D-protein to L, though it is advised against since most L structures are available from the Protein Data Bank.
+
+## License
+See LICENSE file
