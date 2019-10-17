@@ -2,7 +2,7 @@
 """ Converts a PDB file in L to its D counterpart by inversing the
     x coordinate
 
-    Copyright 2019 Fabian Krause
+    Copyright 2019 iGEM Team Freiburg 2019
 """
 
 import sys, os
